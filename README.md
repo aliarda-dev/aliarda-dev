@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Arda 👋
 
-### ⚡ Electrical & Electronics Engineering Student / Freshman(1/4) @ Akdeniz University
+### ⚡ Electrical & Electronics Engineering Student | Freshman(1/4) @ Akdeniz University
 I'm a 20-year-old tech enthusiast based in Antalya, blending the logic of engineering with a visionary mindset.
 
 ---
