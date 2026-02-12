@@ -1,5 +1,6 @@
 
-<img width="3072" height="1302" alt="clarified_image_Nero_AI_Image_Upscaler_Photo_Face" src="https://github.com/user-attachments/assets/ac13a392-9708-4f10-a20a-97813591e208" />
+<img width="4096" height="1736" alt="image_Nero_AI_Image_Upscaler_Photo_Face-artguru" src="https://github.com/user-attachments/assets/3cd54c51-19e6-4ead-acd3-efc2aa19ea71" />
+
 
 
 
