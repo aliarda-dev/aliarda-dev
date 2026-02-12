@@ -1,5 +1,6 @@
 
-<img width="3168" height="1344" alt="Gemini_Generated_Image_bg18apbg18apbg18" src="https://github.com/user-attachments/assets/5ae0e14e-714a-4a44-8550-6702f74fbb31" />
+<img width="3072" height="1302" alt="clarified_image_Nero_AI_Image_Upscaler_Photo_Face" src="https://github.com/user-attachments/assets/ac13a392-9708-4f10-a20a-97813591e208" />
+
 
 
 
