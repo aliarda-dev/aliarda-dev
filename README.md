@@ -1,3 +1,6 @@
+![Uploading Gemini_Generated_Image_8uvnhg8uvnhg8uvn.png…]()
+
+
 # Hi there, I'm Ali Arda 👋
 
 ### ⚡ Electrical & Electronics Engineering Student | Freshman (1/4) @ Akdeniz University
