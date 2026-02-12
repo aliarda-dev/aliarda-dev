@@ -1,4 +1,4 @@
-![Uploading Gemini_Generated_Image_8uvnhg8uvnhg8uvn.png…]()
+<img width="4000" height="1056" alt="Gemini_Generated_Image_8uvnhg8uvnhg8uvn" src="https://github.com/user-attachments/assets/5b773f96-1e1d-45cd-bb17-ddb71842eb86" />
 
 
 # Hi there, I'm Ali Arda 👋
