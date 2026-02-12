@@ -1,5 +1,6 @@
 
-<img width="1536" height="1024" alt="ChatGPT Image 13 Şub 2026 01_35_08" src="https://github.com/user-attachments/assets/ea8b7d94-9f16-4114-944a-b12a80032a59" />
+<img width="1584" height="672" alt="Gemini_Generated_Image_8zxeww8zxeww8zxe" src="https://github.com/user-attachments/assets/84b2626b-d30a-4b26-ac8c-4b5903f1aa73" />
+
 
 
 # Hi there, I'm Ali Arda 👋
