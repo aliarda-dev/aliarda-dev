@@ -19,7 +19,7 @@ I'm a 20-year-old tech enthusiast based in Antalya, blending the logic of engine
 * 💻 **Current Mission:** Mastering **C Programming** and diving deep into **Embedded Systems**.
 * 🛠️ **Hardware:** Experimenting with **Arduino** projects to bridge the gap between software and reality.
 * 📈 **Academic Goal:** Pushing my GPA towards 3.00+ with a focus on engineering excellence.
-* 👔 **Career Vision:** Inspired by the "Matsson Mindset"—aiming to become a visionary tech geek.
+
 
 ---
 
