@@ -8,7 +8,6 @@
 
 
 
-
 # Hi there, I'm Ali Arda 👋
 
 ### ⚡ Electrical & Electronics Engineering Student | Freshman (1/4) @ Akdeniz University
