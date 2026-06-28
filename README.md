@@ -1,5 +1,6 @@
 
-<img width="4096" height="1519" alt="549125600-3cd54c51-19e6-4ead-acd3-efc2aa19ea71" src="https://github.com/user-attachments/assets/43e07562-1790-4e4f-a893-f76b1da26e6f" />
+<img width="4096" height="1519" alt="549125600-3cd54c51-19e6-4ead-acd3-efc2aa19ea71" src="https://github.com/user-attachments/assets/3c89231f-e372-4aca-aa1d-aec19d175dc7" />
+
 
 
 
@@ -11,23 +12,36 @@
 # Hi there, I'm Ali Arda 👋
 
 ### ⚡ Electrical & Electronics Engineering Student | Freshman (1/4) @ Akdeniz University
-I'm a 20-year-old tech enthusiast based in Antalya, blending the logic of engineering with a visionary mindset.
+I’m an EEE student based in Antalya. I enjoy working with electronics and figuring out how things actually work by building and breaking them along the way.
 
 ---
 
-### 🚀 Professional Path & Tech Stack
-* 💻 **Current Mission:** Mastering **C Programming** and diving deep into **Embedded Systems**.
-* 🛠️ **Hardware:** Experimenting with **Arduino** projects to bridge the gap between software and reality.
-* 📈 **Academic Goal:** Pushing my GPA towards 3.00+ with a focus on engineering excellence.
+### ❓ What I'm working on
+* Currently focusing on learning C and getting into Embedded Systems
+* Understanding how microcontrollers actually execute code step by step
+* Building small projects with Arduino
+* My goal is to get my GPA above 3.00
+
+---
+
+### How I learn
+
+*I usually learn by:
+
+*breaking things
+*debugging for hours
+*rebuilding simpler versions until it makes sense
+
+*If something works, I still try to understand why it works.
 
 
 ---
 
-### 🏎️ Beyond the Code: Automotive & Lifestyle
+### 🏎️ Interests (outside engineering)
 When I'm not debugging or designing circuits, you can find me:
-* 🏁 **Automotive Enthusiast:** Deeply into **BMW (E60, E90)** M Series obsessed with automotive electronics and drifting mechanics.
-* 🎬 **Cinephile:** Analyzing the power dynamics in *Succession*, the aesthetics of *Hannibal*, or the hustle in *The Wolf of Wall Street*.
-* 📉 Market Analysis: Tracking tech trends.
+* Cars: especially BMW E60 / E90 and automotive electronics in general
+* TV/Movies: Succession, Hannibal, The Wolf of Wall Street
+* Occasionally follow tech trends and markets, but more out of curiosity than anything serious
 
 ---
 
@@ -51,17 +65,3 @@ When I'm not debugging or designing circuits, you can find me:
 
 📫 **Let's connect:** [https://www.linkedin.com/in/ali-arda-kocab%C3%B6rek-3810683a0/]
 
-<!--
-**aliarda-dev/aliarda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
