@@ -38,10 +38,6 @@ When I'm not debugging or designing circuits, you can find me:
 
 ---
 
-### 🏎️ Motto
-> **"Focused on impact, driven by vision."**
-
----
 
 📫 **Let's connect:** [https://www.linkedin.com/in/ali-arda-kocab%C3%B6rek-3810683a0/]
 
