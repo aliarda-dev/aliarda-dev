@@ -33,8 +33,18 @@ When I'm not debugging or designing circuits, you can find me:
 
 ### 🛠 Tools & Technologies
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarda-dev&show_icons=true&theme=dark)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarda-dev&layout=compact&theme=dark)
 
 ---
 
