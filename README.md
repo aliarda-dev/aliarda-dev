@@ -24,8 +24,8 @@ I’m an EEE student based in Antalya. I enjoy working with electronics and figu
 
 ---
 
-### How I learn
-I usually learn by breaking things,debugging for hours,rebuilding simpler versions until it makes sense.If something works, I still try to understand why it works.
+### 🎓 How I learn
+*I usually learn by breaking things,debugging for hours,rebuilding simpler versions until it makes sense.If something works, I still try to understand why it works.
 
 
 ---
