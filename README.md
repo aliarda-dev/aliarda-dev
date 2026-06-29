@@ -73,8 +73,7 @@ When I'm not debugging or designing circuits, you can find me:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarda-dev&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarda-dev&show_icons=true&theme=radical)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarda-dev&layout=compact&theme=dark)
