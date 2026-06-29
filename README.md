@@ -42,7 +42,7 @@ When I'm not debugging or designing circuits, you can find me:
 
 ---
 
-### ✦ Completed Projects
+### ✅ Completed Projects
 
 ---
 
@@ -50,9 +50,9 @@ When I'm not debugging or designing circuits, you can find me:
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **Fire Detection System** | This project is a simple embedded system prototype that detects fire risk by jointly evaluating data received from temperature and gas sensors.. | TypeScript, React | [View →]([https://github.com/kullaniciadi/repo](https://github.com/aliarda-dev/Fire-Detection-System)) |
-| **Project Name** | What this project does and what problem it solves. | Python, FastAPI | [View →](https://github.com/kullaniciadi/repo) |
-| **Project Name** | What this project does and what problem it solves. | Node.js, MongoDB | [View →](https://github.com/kullaniciadi/repo) |
+| **Fire Detection System** | This project is a simple embedded system prototype that detects fire risk by jointly evaluating data received from temperature and gas sensors. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Fire-Detection-System) |
+| **Sound Activated Logic Controller** | This project is a sound-triggered control system prototype. The signal received from the microphone sensor is processed, and LEDs are switched to different states based on sudden sounds such as clapping. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Sound-Activated-Logic-Controller) |
+| **Ultrasonic Radar Detector** | This project is a simple radar system that scans the environment angularly using an ultrasonic sensor and a servo motor. The system detects the position of obstacles by measuring distance at different angles. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Ultrasonic-Radar-Detector) |
 
 <div align="center">
 
