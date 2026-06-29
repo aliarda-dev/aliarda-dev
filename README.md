@@ -38,6 +38,34 @@ When I'm not debugging or designing circuits, you can find me:
 
 ---
 
+<div align="center">
+
+---
+
+### ✦ Completed Projects
+
+---
+
+</div>
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **Fire Detection System** | This project is a simple embedded system prototype that detects fire risk by jointly evaluating data received from temperature and gas sensors.. | TypeScript, React | [View →]([https://github.com/kullaniciadi/repo](https://github.com/aliarda-dev/Fire-Detection-System)) |
+| **Project Name** | What this project does and what problem it solves. | Python, FastAPI | [View →](https://github.com/kullaniciadi/repo) |
+| **Project Name** | What this project does and what problem it solves. | Node.js, MongoDB | [View →](https://github.com/kullaniciadi/repo) |
+
+<div align="center">
+
+---
+
+✦ ✦ ✦
+
+---
+
+</div>
+
+---
+
 ### 🛠 Tools & Technologies
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
