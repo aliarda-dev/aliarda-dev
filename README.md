@@ -36,8 +36,6 @@ When I'm not debugging or designing circuits, you can find me:
 * TV/Movies: Succession, Hannibal, The Wolf of Wall Street
 * Occasionally follow tech trends and markets, but more out of curiosity than anything serious
 
----
-
 <div align="center">
 
 ---
@@ -53,14 +51,14 @@ When I'm not debugging or designing circuits, you can find me:
 | **Fire Detection System** | This project is a simple embedded system prototype that detects fire risk by jointly evaluating data received from temperature and gas sensors. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Fire-Detection-System) |
 | **Sound Activated Logic Controller** | This project is a sound-triggered control system prototype. The signal received from the microphone sensor is processed, and LEDs are switched to different states based on sudden sounds such as clapping. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Sound-Activated-Logic-Controller) |
 | **Ultrasonic Radar Detector** | This project is a simple radar system that scans the environment angularly using an ultrasonic sensor and a servo motor. The system detects the position of obstacles by measuring distance at different angles. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Ultrasonic-Radar-Detector) |
+| **Smart Night Ambiance** | A simple smart lighting prototype that measures ambient light using an LDR (photoresistor) and automatically turns on the LED in the dark. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Smart-Night-Ambiance) |
+| **Led Animation With Arrays** | This project is an engineering study where I explored how arrays in C translate into real hardware control. As a first-year EEE student at Akdeniz University, I brought that idea to life with a small LED animation. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Led-Animation-With-Arrays) |
+| **C Projects Portfolio** | A collection of C programs written during my Electrical & Electronics Engineering journey. | C | [View →](https://github.com/aliarda-dev/C-Projects-Portfolio) |
+| **C Programming Journey** | My C projects from Akdeniz University EEE first year. A technical progress archive ranging from basic syntax to dynamic memory management. | C | [View →](https://github.com/aliarda-dev/C-Programming-Journey) |
+
+
 
 <div align="center">
-
----
-
-✦ ✦ ✦
-
----
 
 </div>
 
