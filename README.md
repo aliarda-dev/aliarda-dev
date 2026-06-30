@@ -73,13 +73,5 @@ When I'm not debugging or designing circuits, you can find me:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarda-dev&show_icons=true&theme=radical)
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarda-dev&layout=compact&theme=dark)
-
----
-
-
 📫 **Let's connect:** [https://www.linkedin.com/in/ali-arda-kocab%C3%B6rek-3810683a0/]
 
