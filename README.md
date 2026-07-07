@@ -60,7 +60,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 ---
 
-### 🛠 Tools & Technologies
+###  Tools & Technologies
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
