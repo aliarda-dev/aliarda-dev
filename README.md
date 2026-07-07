@@ -1,7 +1,7 @@
 
 
 
-Ali Arda | Electrical & Electronics Engineering Student | Freshman (1/4) at Akdeniz University, based in Antalya.
+Ali Arda | Electrical & Electronics Engineering Student | 1st Year at Akdeniz University, based in Antalya.
 
 I enjoy working with electronics and figuring out how things actually work by building and breaking them along the way.
 
@@ -36,11 +36,11 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **Fire Detection System** | This project is a simple embedded system prototype that detects fire risk by jointly evaluating data received from temperature and gas sensors. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Fire-Detection-System) |
-| **Sound Activated Logic Controller** | This project is a sound-triggered control system prototype. The signal received from the microphone sensor is processed, and LEDs are switched to different states based on sudden sounds such as clapping. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Sound-Activated-Logic-Controller) |
+| **Fire Detection System** | I built this project to combine temperature and gas sensors into a simple fire detection prototype and understand how sensor data can be used together. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Fire-Detection-System) |
+| **Sound Activated Logic Controller** | I wanted to understand how microphone modules work, so I built a clap-controlled LED system that reacts to sudden sounds. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Sound-Activated-Logic-Controller) |
 | **Ultrasonic Radar Detector** | This project is a simple radar system that scans the environment angularly using an ultrasonic sensor and a servo motor. The system detects the position of obstacles by measuring distance at different angles. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Ultrasonic-Radar-Detector) |
 | **Smart Night Ambiance** | A simple smart lighting prototype that measures ambient light using an LDR (photoresistor) and automatically turns on the LED in the dark. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Smart-Night-Ambiance) |
-| **Led Animation With Arrays** | This project is an engineering study where I explored how arrays in C translate into real hardware control. As a first-year EEE student at Akdeniz University, I brought that idea to life with a small LED animation. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Led-Animation-With-Arrays) |
+| **Led Animation With Arrays** | I used this project to explore how arrays in C can control multiple LEDs and create simple animation patterns on real hardware. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Led-Animation-With-Arrays) |
 | **C Projects Portfolio** | A collection of C programs written during my Electrical & Electronics Engineering journey. | C | [View →](https://github.com/aliarda-dev/C-Projects-Portfolio) |
 | **C Programming Journey** | My C projects from Akdeniz University EEE first year. A technical progress archive ranging from basic syntax to dynamic memory management. | C | [View →](https://github.com/aliarda-dev/C-Programming-Journey) |
 
@@ -49,6 +49,14 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 <div align="center">
 
 </div>
+
+---
+
+### Goals
+
+- Learn STM32,ESP32 development
+- Register-level programming
+- UART / SPI / I2C drivers
 
 ---
 
