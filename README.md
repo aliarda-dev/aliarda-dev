@@ -1,16 +1,7 @@
 
-<img width="4096" height="1519" alt="549125600-3cd54c51-19e6-4ead-acd3-efc2aa19ea71" src="https://github.com/user-attachments/assets/3c89231f-e372-4aca-aa1d-aec19d175dc7" />
-
-
-
-
-
-
-
-
 ---
 
-Ali Arda | Electrical & Electronics Engineering Student, Freshman (1/4) at Akdeniz University, based in Antalya.
+Ali Arda | Electrical & Electronics Engineering Student | Freshman (1/4) at Akdeniz University, based in Antalya.
 
 I enjoy working with electronics and figuring out how things actually work by building and breaking them along the way.
 
