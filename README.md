@@ -55,7 +55,9 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 ### Goals
 
  Learn STM32,ESP32 development
+ 
  Register-level programming
+ 
  UART / SPI / I2C drivers
 
 ---
