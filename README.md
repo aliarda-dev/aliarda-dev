@@ -9,15 +9,14 @@
 
 
 
-# Hi there, I'm Ali Arda 👋
 
-Electrical & Electronics Engineering Student, Freshman (1/4) at Akdeniz University, based in Antalya.
+Ali Arda | Electrical & Electronics Engineering Student, Freshman (1/4) at Akdeniz University, based in Antalya.
 
 I enjoy working with electronics and figuring out how things actually work by building and breaking them along the way.
 
 ---
 
-What I'm working on
+### What I'm working on
 
 Right now I'm focused on learning C properly and getting into embedded systems — trying to understand how a microcontroller actually executes code step by step, not just copy-pasting from examples. Most of what I build ends up being small Arduino projects, and my side goal this semester is keeping my GPA above 3.00.
 
