@@ -32,7 +32,17 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 ---
 
+<h2 align="center">IoT</h2>
 
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+
+<div align="center">
+
+</div>
+
+---
 
 <h2 align="center">Embedded Systems</h2>
  
