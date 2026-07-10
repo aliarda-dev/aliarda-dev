@@ -26,11 +26,13 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 <div align="center">
 
-
+---
 
 ### ✅ Completed Projects
 
 ---
+
+
 
 <h2 align="center">Embedded Systems</h2>
  
