@@ -34,6 +34,8 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 </div>
 
+## Embedded Systems
+
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
 | **Fire Detection System** | I built this project to combine temperature and gas sensors into a simple fire detection prototype and understand how sensor data can be used together. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Fire-Detection-System) |
