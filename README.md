@@ -34,7 +34,6 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 <h2 align="center">IoT</h2>
 
-
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
 
@@ -54,10 +53,6 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 | **Ultrasonic Radar Detector** | This project is a simple radar system that scans the environment angularly using an ultrasonic sensor and a servo motor. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Ultrasonic-Radar-Detector) |
 | **Smart Night Ambiance** | A simple smart lighting prototype that measures ambient light using an LDR (photoresistor) and automatically turns on the LED in the dark. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Smart-Night-Ambiance) |
 | **Led Animation With Arrays** | I used this project to explore how arrays in C can control multiple LEDs and create simple animation patterns on real hardware. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Led-Animation-With-Arrays) |
-| **C Projects Portfolio** | A collection of C programs written during my Electrical & Electronics Engineering journey. | C | [View →](https://github.com/aliarda-dev/C-Projects-Portfolio) |
-| **C Programming Journey** | My C projects from Akdeniz University EEE first year. A technical progress archive ranging from basic syntax to dynamic memory management. | C | [View →](https://github.com/aliarda-dev/C-Programming-Journey) |
-
-
 
 <div align="center">
 
@@ -67,12 +62,10 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 <h2 align="center">Learning by Coding</h2>
 
-
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
 | **C Projects Portfolio** | A collection of C programs written during my Electrical & Electronics Engineering journey. | C | [View →](https://github.com/aliarda-dev/C-Projects-Portfolio) |
 | **C Programming Journey** | My C projects from Akdeniz University EEE first year. A technical progress archive ranging from basic syntax to dynamic memory management. | C | [View →](https://github.com/aliarda-dev/C-Programming-Journey) |
-
 
 <div align="center">
 
