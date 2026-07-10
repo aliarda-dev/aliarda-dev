@@ -65,6 +65,21 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 ---
 
+<h2 align="center">Learning by Coding</h2>
+
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **C Projects Portfolio** | A collection of C programs written during my Electrical & Electronics Engineering journey. | C | [View →](https://github.com/aliarda-dev/C-Projects-Portfolio) |
+| **C Programming Journey** | My C projects from Akdeniz University EEE first year. A technical progress archive ranging from basic syntax to dynamic memory management. | C | [View →](https://github.com/aliarda-dev/C-Programming-Journey) |
+
+
+<div align="center">
+
+</div>
+
+---
+
 ### Goals
 
  Learn STM32,ESP32 development
