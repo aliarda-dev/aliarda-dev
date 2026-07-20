@@ -76,7 +76,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 ### Goals
 
- Learn STM32,ESP32 development
+ Learn STM32,ESP32,FreeRTOS development
  
  Register-level programming
  
