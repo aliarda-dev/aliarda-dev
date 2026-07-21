@@ -36,6 +36,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| **Plant** | An IoT system that monitors your plant remotely and notifies you via Telegram on your phone when it’s time to water it or when environmental conditions reach a level that could harm the plant. |  | [View →](https://github.com/aliarda-dev/Plant-Tracker) |
 
 <div align="center">
 
