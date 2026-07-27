@@ -9,7 +9,7 @@ I enjoy working with electronics and figuring out how things actually work by bu
 
 ### What I'm working on
 
-Right now I'm focused on learning C properly and getting into embedded systems — trying to understand how a microcontroller actually executes code step by step, not just copy-pasting from examples. Mostly Im building small Arduino and ESP32 projects. My side goal this semester is keeping my GPA above 3.00.
+Right now I'm focused on learning C properly and getting into embedded systems, IoT. Trying to understand how a microcontroller actually executes code step by step, not just copy-pasting from examples. Mostly Im building small Arduino and ESP32 projects. My side goal this semester is keeping my GPA above 3.00.
 
 
 
