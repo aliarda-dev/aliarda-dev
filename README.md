@@ -35,7 +35,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 <h2 align="center">IoT</h2>
 
 | Project | Description | Stack | Link |
-|:-------:|-------------|-------|:----:|
+|:-------:|-------------|:-----:|:----:|
 | **Plant Tracker** | An IoT project that sends notifications to a telegram bot when the conditions I defined based on data from the DHT22 and FC-28 sensors are met. Since this was my first IoT project developed with ESP-IDF, I struggled quite a bit  especially with the wifi connection and spent a significant amount of time trying to figure it out. | C, ESP32, ESP-IDF, KiCAD | [View →](https://github.com/aliarda-dev/Plant-Tracker) |
 | **IoT Wifi Client for Telegram Bot** | ESP32-based Wi-Fi client that sends Telegram notifications. | C, ESP32, ESP-IDF | [View →](https://github.com/aliarda-dev/Wifi-Code-ESP32-TelegramBot) |
 
