@@ -49,7 +49,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
  
 
 | Project | Description | Stack | Link |
-|---------|-------------|-------|------|
+|:-------:|-------------|:-----:|:----:|
 | **Fire Detection System** | I built this project to combine temperature and gas sensors into a simple fire detection prototype and understand how sensor data can be used together. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Fire-Detection-System) |
 | **Sound Activated Logic Controller** | I wanted to understand how microphone modules work, so I built a clap-controlled LED system that reacts to sudden sounds. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Sound-Activated-Logic-Controller) |
 | **Ultrasonic Radar Detector** | This project is a simple radar system that scans the environment angularly using an ultrasonic sensor and a servo motor. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Ultrasonic-Radar-Detector) |
