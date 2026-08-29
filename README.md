@@ -82,6 +82,13 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
   <td align="center">C, Arduino, KiCAD</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Fire-Detection-System">View →</a></td>
 </tr>
+<tr>
+  <td align="center"><b>Sound Activated Logic Controller</b></td>
+  <td align="center"><img src="https://github.com/aliarda-dev/Sound-Activated-Logic-Controller/blob/main/PCB/PCB%20Media/Sound-Activated-Logic-Controller4.png" width="150"></td>
+  <td>I wanted to understand how microphone modules work, so I built a clap-controlled LED system that reacts to sudden sounds.</td>
+  <td align="center">C, Arduino, KiCAD</td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Sound-Activated-Logic-Controller">View →</a></td>
+</tr>
  
 
 | Project | Description | Stack | Link |
