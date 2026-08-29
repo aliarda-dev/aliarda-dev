@@ -39,9 +39,31 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 | **Plant Tracker** | An IoT project that sends notifications to a telegram bot when the conditions I defined based on data from the DHT22 and FC-28 sensors are met. Since this was my first IoT project developed with ESP-IDF, I struggled quite a bit  especially with the wifi connection and spent a significant amount of time trying to figure it out. | C, ESP32, ESP-IDF, KiCAD | [View →](https://github.com/aliarda-dev/Plant-Tracker) |
 | **IoT Wifi Client for Telegram Bot** | ESP32 based Wi-Fi client that sends Telegram notifications. | C, ESP32, ESP-IDF | [View →](https://github.com/aliarda-dev/Wifi-Code-ESP32-TelegramBot) |
 
-| Project | Preview | Description | Stack | Link |
-|:-------:|:-------:|-------------|:-----:|:----:|
-| **Plant Tracker** | <img src="https://private-user-images.githubusercontent.com/260250378/625792901-19bd5abc-d4de-4d2a-a9ca-71aec199cdb0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwMDA0NDYsIm5iZiI6MTc4ODAwMDE0NiwicGF0aCI6Ii8yNjAyNTAzNzgvNjI1NzkyOTAxLTE5YmQ1YWJjLWQ0ZGUtNGQyYS1hOWNhLTcxYWVjMTk5Y2RiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDQyMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYzE3OGEzODViMGVjZDU1YWJkNDVkYmY2YTA3YWZmYzE4M2ZhZmQxOTBhMjdmZmU3ZmIyNWUyODQzN2QzNjI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.3M-upG_GHvhAXhdfrKuOB7ZOC221acFB-Zydk4rp4Nc" width="80" height="80" style="object-fit:cover;"> | An IoT project that sends... | C, ESP32, ESP-IDF, KiCAD | [View →](...) |
+
+<table width="100%">
+<tr>
+  <th align="center">Project</th>
+  <th align="center">Preview</th>
+  <th align="left">Description</th>
+  <th align="center">Stack</th>
+  <th align="center">Link</th>
+</tr>
+<tr>
+  <td align="center"><b>Plant Tracker</b></td>
+  <td align="center"><img src="https://private-user-images.githubusercontent.com/260250378/625792901-19bd5abc-d4de-4d2a-a9ca-71aec199cdb0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwMDA0NDYsIm5iZiI6MTc4ODAwMDE0NiwicGF0aCI6Ii8yNjAyNTAzNzgvNjI1NzkyOTAxLTE5YmQ1YWJjLWQ0ZGUtNGQyYS1hOWNhLTcxYWVjMTk5Y2RiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDQyMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYzE3OGEzODViMGVjZDU1YWJkNDVkYmY2YTA3YWZmYzE4M2ZhZmQxOTBhMjdmZmU3ZmIyNWUyODQzN2QzNjI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.3M-upG_GHvhAXhdfrKuOB7ZOC221acFB-Zydk4rp4Nc" width="80"></td>
+  <td>An IoT project that sends notifications to a telegram bot when the conditions I defined based on data from the DHT22 and FC-28 sensors are met. Since this was my first IoT project developed with ESP-IDF, I struggled quite a bit especially with the wifi connection.</td>
+  <td align="center">C, ESP32, ESP-IDF, KiCAD</td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Plant-Tracker">View →</a></td>
+</tr>
+<tr>
+  <td align="center"><b>IoT Wifi Client for Telegram Bot</b></td>
+  <td align="center"></td>
+  <td>ESP32-based Wi-Fi client that sends Telegram notifications.</td>
+  <td align="center">C, ESP32, ESP-IDF</td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Wifi-Code-ESP32-TelegramBot">View →</a></td>
+</tr>
+</table>
+
 
 <div align="center">
 
