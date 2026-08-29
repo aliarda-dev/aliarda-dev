@@ -66,6 +66,22 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 ---
 
 <h2 align="center">Embedded Systems</h2>
+
+<table width="100%">
+<tr>
+  <th align="center">Project</th>
+  <th align="center">Preview</th>
+  <th align="left">Description</th>
+  <th align="center">Stack</th>
+  <th align="center">Link</th>
+</tr>
+<tr>
+  <td align="center"><b>Fire Detection System</b></td>
+  <td align="center"><img src="https://github.com/aliarda-dev/Fire-Detection-System/blob/main/media/teoric-Fire-Detection-System.png" width="300"></td>
+  <td>I built this project to combine temperature and gas sensors into a simple fire detection prototype and understand how sensor data can be used together.</td>
+  <td align="center">C, Arduino, KiCAD</td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Fire-Detection-System">View →</a></td>
+</tr>
  
 
 | Project | Description | Stack | Link |
