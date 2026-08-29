@@ -50,7 +50,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 </tr>
 <tr>
   <td align="center"><b>Plant Tracker</b></td>
-  <td align="center"><img src="https://github.com/aliarda-dev/Plant-Tracker/blob/main/PCB/PCB%20Media/plant-tracker1.png" width="250"></td>
+  <td align="center"><img src="https://github.com/aliarda-dev/Plant-Tracker/blob/main/PCB/PCB%20Media/plant-tracker1.png" width="300"></td>
   <td>An IoT project that sends notifications to a telegram bot when the conditions I defined based on data from the DHT22 and FC-28 sensors are met. Since this was my first IoT project developed with ESP-IDF, I struggled quite a bit especially with the wifi connection.</td>
   <td align="center">C, ESP32, ESP-IDF, KiCAD</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Plant-Tracker">View →</a></td>
