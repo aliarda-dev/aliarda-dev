@@ -40,7 +40,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 | **IoT Wifi Client for Telegram Bot** | ESP32 based Wi-Fi client that sends Telegram notifications. | C, ESP32, ESP-IDF | [View →](https://github.com/aliarda-dev/Wifi-Code-ESP32-TelegramBot) |
 
 
-<table width="120%">
+<table width="120">
 <tr>
   <th align="center">Project</th>
   <th align="center">Preview</th>
