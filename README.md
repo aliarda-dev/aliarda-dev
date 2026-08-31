@@ -96,6 +96,13 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
   <td align="center">C, Arduino, KiCAD</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Ultrasonic-Radar-Detector">View →</a></td>
 </tr>
+<tr>
+  <td align="center"><b>Weather Tracker</b></td>
+  <td align="center"><img src="https://github.com/aliarda-dev/Weather-Tracker/blob/main/PCB/PCB%20Media/weather-tracker4.png" width="150"></td>
+  <td>Weather monitoring project that measures ambient temperature and humidity using a DHT11 sensor and displays the readings on an LCD screen.</td>
+  <td align="center">C, Arduino, KiCAD</td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Weather-Tracker">View →</a></td>
+</tr>
  
 
 | Project | Description | Stack | Link |
