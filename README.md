@@ -103,6 +103,13 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
   <td align="center">C, Arduino, KiCAD</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Weather-Tracker">View →</a></td>
 </tr>
+<tr>
+  <td align="center"><b>Smart Night Ambiance</b></td>
+  <td align="center"><img src="https://github.com/aliarda-dev/Smart-Night-Ambiance/blob/main/PCB/PCB%20Media/smart-night-ambiance3.png" width="150"></td>
+  <td>A simple smart lighting prototype that measures ambient light using an LDR (photoresistor) and automatically turns on the LED in the dark.</td>
+  <td align="center">C, Arduino, KiCAD</td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Smart-Night-Ambiance">View →</a></td>
+</tr>
  
 
 | Project | Description | Stack | Link |
