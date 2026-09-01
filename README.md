@@ -117,6 +117,8 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
   <td align="center">C, Arduino, KiCAD</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Led-Animation-With-Arrays">View →</a></td>
 </tr>
+
+</table>
  
 <div align="center">
 
