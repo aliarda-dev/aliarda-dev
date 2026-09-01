@@ -110,17 +110,14 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
   <td align="center">C, Arduino, KiCAD</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Smart-Night-Ambiance">View →</a></td>
 </tr>
+<tr>
+  <td align="center"><b>Led Animation With Arrays</b></td>
+  <td align="center"><img src="https://github.com/aliarda-dev/Led-Animation-With-Arrays/blob/main/PCB/PCB%20Media/ledarraypcb4.png" width="150"></td>
+  <td>I used this project to explore how arrays in C can control multiple LEDs and create simple animation patterns on real hardware.</td>
+  <td align="center">C, Arduino, KiCAD</td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Led-Animation-With-Arrays">View →</a></td>
+</tr>
  
-
-| Project | Description | Stack | Link |
-|:-------:|-------------|:-----:|:----:|
-| **Fire Detection System** | I built this project to combine temperature and gas sensors into a simple fire detection prototype and understand how sensor data can be used together. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Fire-Detection-System) |
-| **Sound Activated Logic Controller** | I wanted to understand how microphone modules work, so I built a clap-controlled LED system that reacts to sudden sounds. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Sound-Activated-Logic-Controller) |
-| **Ultrasonic Radar Detector** | This project is a simple radar system that scans the environment angularly using an ultrasonic sensor and a servo motor. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Ultrasonic-Radar-Detector) |
-| **Weather Tracker** | Weather monitoring project that measures ambient temperature and humidity using a DHT11 sensor and displays the readings on an LCD screen. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Weather-Tracker) |
-| **Smart Night Ambiance** | A simple smart lighting prototype that measures ambient light using an LDR (photoresistor) and automatically turns on the LED in the dark. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Smart-Night-Ambiance) |
-| **Led Animation With Arrays** | I used this project to explore how arrays in C can control multiple LEDs and create simple animation patterns on real hardware. | C, Arduino, KiCAD | [View →](https://github.com/aliarda-dev/Led-Animation-With-Arrays) |
-
 <div align="center">
 
 </div>
