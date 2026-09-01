@@ -91,7 +91,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 </tr>
 <tr>
   <td align="center"><b>Ultrasonic Radar Detector</b></td>
-  <td align="center"><img src="" width="150"></td>
+  <td align="center"><img src="https://github.com/aliarda-dev/Ultrasonic-Radar-Detector/blob/main/PCB/PCB%20Media/ultrasonic-radar-detector4.png" width="150"></td>
   <td>This project is a simple radar system that scans the environment angularly using an ultrasonic sensor and a servo motor.</td>
   <td align="center">C, Arduino, KiCAD</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Ultrasonic-Radar-Detector">View →</a></td>
