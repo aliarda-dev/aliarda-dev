@@ -52,7 +52,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
 <tr>
   <td align="center"><b>IoT Wifi Client for Telegram Bot</b></td>
    <td align="center">Just Code Stuff</td>
-  <td>ESP32-based Wi-Fi client that sends Telegram notifications.</td>
+  <td>ESP32 based Wi-Fi client that sends Telegram notifications.</td>
   <td align="center">C, ESP32, ESP-IDF</td>
   <td align="center"><a href="https://github.com/aliarda-dev/Wifi-Code-ESP32-TelegramBot">View →</a></td>
 </tr>
