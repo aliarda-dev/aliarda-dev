@@ -54,7 +54,7 @@ I'm into cars, especially the BMW E60 / E90 and automotive electronics in genera
    <td align="center">Just Code Stuff</td>
   <td>ESP32 based Wi-Fi client that sends Telegram notifications.</td>
   <td align="center">C, ESP32, ESP-IDF</td>
-  <td align="center"><a href="https://github.com/aliarda-dev/Wifi-Code-ESP32-TelegramBot">View →</a></td>
+  <td align="center"><a href="https://github.com/aliarda-dev/Esp32-Wifi-Telegram-Client">View →</a></td>
 </tr>
 </table>
 
