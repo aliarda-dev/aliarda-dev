@@ -22,7 +22,8 @@ I usually learn by breaking things, debugging for hours, and rebuilding simpler 
 
 ###  Outside of engineering
 
-I'm into cars, especially the BMW E60 / E90 and automotive electronics in general. I follow tech and market news occasionally, more out of curiosity than anything serious.
+I'm into:
+Cars (especially the BMW E60 / E90 and automotive electronics in general), fragrances. I follow tech and market news occasionally, more out of curiosity than anything serious.
 
 <div align="center">
 
